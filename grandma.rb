@@ -9,6 +9,8 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
   else phrase == "WHAT?".upcase
     puts "NO, NOT SINCE 1938!"
+  end
+end
 
 
 
